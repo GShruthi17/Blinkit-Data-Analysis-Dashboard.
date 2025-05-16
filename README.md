@@ -21,9 +21,9 @@ A comprehensive Power BI dashboard visualizing sales, outlet types, item categor
 - Interactive Filters: Easily filter by outlet location, size, and item type.
 - Outlet Establishment Analysis: Track how Blinkit outlets have evolved since 2012.
 - Sales Breakdown:
-- By outlet type (e.g., grocery store, supermarket)
-- By fat content (Low Fat vs. Regular)
-- By item categories (e.g., fruits, snacks, dairy)
+  - By outlet type (e.g., grocery store, supermarket)
+  - By fat content (Low Fat vs. Regular)
+  - By item categories (e.g., fruits, snacks, dairy)
 - Drill-down Visuals: Gain insights into regional performance and item-specific contributions.
 
 📊 Visual Components
