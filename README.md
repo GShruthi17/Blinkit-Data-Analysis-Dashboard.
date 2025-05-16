@@ -1,6 +1,9 @@
 # Blinkit-Data-Analysis-Dashboard.
 A comprehensive Power BI dashboard visualizing sales, outlet types, item categories, and regional insights for Blinkit, India's last-minute delivery app.
 
+![Screenshot 2025-05-16 211833](https://github.com/user-attachments/assets/78ed0aaa-2c4f-4860-a6d4-68e07f8a721d)
+
+
 Firstly, Data Cleaning is done and then DAX were written for KPIs (Key Metrics)
 
 **🧾 Overview**
